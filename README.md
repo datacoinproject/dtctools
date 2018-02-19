@@ -18,7 +18,7 @@ Example contents of the `datacoin.conf` file :
 
 In order to build this tool you will need a working GO environment, and then :
 
-    git clone https://github.com/cryptrol/dtctools
+    git clone https://github.com/datacoinproject/dtctools
     cd dtctools
     go get github.com/golang/protobuf/proto
     go install
